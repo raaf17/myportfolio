@@ -5,7 +5,7 @@ export default function Hero() {
     return (
         <section className='relative grid place-content-center py-20 px-6'>
             <div className='flex flex-col justify-center items-center mb-4'>
-                <img src="IMG_1843.JPG" alt='...' width='250px' className='rounded-3xl border-spacing-3 border-gray-950' />
+                <img src="fotoku.jpg" alt='...' width='250px' className='rounded-3xl border-spacing-3 border-gray-950' />
             </div>
             <div className='md:max-w-2xl max-w-md items-center text-center grid gap-1'>
                 <h1 className='md:text-4xl lg:text-5xl text-3xl font-bold'>
@@ -18,7 +18,7 @@ export default function Hero() {
             </div>
             <div className='flex items-center justify-center gap-3 mt-5'>
                 <Button asChild variant="outline">
-                    <Link href="/">Explore</Link>
+                    <Link href="https://drive.google.com/file/d/12jS1xKmh87XcBsJdofQ6lzBSIgPnd6HM/view?usp=drivesdk">Download CV</Link>
                 </Button>
                 <Button asChild className="flex gap-1 items-center justify-center">
                     <Link href="https://github.com/raaf17">My Github</Link>
