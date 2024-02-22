@@ -1,4 +1,4 @@
-import { GitHubLogoIcon, InstagramLogoIcon, TwitterLogoIcon } from "@radix-ui/react-icons";
+import { GitHubLogoIcon, InstagramLogoIcon } from "@radix-ui/react-icons";
 import Link from "next/link";
 import { SiLinkedin } from "react-icons/si";
 
