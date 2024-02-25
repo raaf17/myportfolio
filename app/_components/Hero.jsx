@@ -18,7 +18,7 @@ export default function Hero() {
             </div>
             <div className='flex items-center justify-center gap-3 mt-5'>
                 <Button asChild variant="outline">
-                    <Link href="https://drive.google.com/file/d/12hC2WcDWkG4CO7VFi81Udzo2XIr2Sz-h/view?usp=drivesdk">Download CV</Link>
+                    <Link href="https://drive.google.com/file/d/13Qd_UvgMKmQl3I9E0JOVRSVygd97R6o5/view?usp=drivesdk">Download CV</Link>
                 </Button>
                 <Button asChild className="flex gap-1 items-center justify-center">
                     <Link href="https://github.com/raaf17">My Github</Link>
