@@ -9,7 +9,7 @@ export default function Hero() {
             </div>
             <div className='md:max-w-2xl max-w-md items-center text-center grid gap-1'>
                 <h1 className='md:text-4xl lg:text-5xl text-3xl font-bold'>
-                    Hi I am <span className='text-primary'>Muhammad Rafi</span> a Backend Developer<span className='text-primary'>.</span>
+                    Hi I am <span className='text-primary'>Muhammad Rafi</span> a Fullstack Developer<span className='text-primary'>.</span>
                 </h1>
                 <p className='text-[0.8rem] max-w-md mx-auto'>
                     I am a student at SMKN 1 Boyolangu Tulungagung.
@@ -18,7 +18,7 @@ export default function Hero() {
             </div>
             <div className='flex items-center justify-center gap-3 mt-5'>
                 <Button asChild variant="outline">
-                    <Link href="https://drive.google.com/file/d/13Qd_UvgMKmQl3I9E0JOVRSVygd97R6o5/view?usp=drivesdk">Download CV</Link>
+                    <Link href="https://drive.google.com/file/d/1yX0f_mxDPKPaaBizHQHgEqJdvOJa1U9n/view?usp=drive_link">Download CV</Link>
                 </Button>
                 <Button asChild className="flex gap-1 items-center justify-center">
                     <Link href="https://github.com/raaf17">My Github</Link>
