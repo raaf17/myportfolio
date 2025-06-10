@@ -12,8 +12,8 @@ export default function Hero() {
                     Hi I am <span className='text-primary'>Muhammad Rafi</span> a Fullstack Developer<span className='text-primary'>.</span>
                 </h1>
                 <p className='text-[0.8rem] max-w-md mx-auto'>
-                    I am a student at SMKN 1 Boyolangu Tulungagung.
-                    I am interested in learning programming because my dream is to become a programmer<span className='text-primary'>.</span>
+                    A passionate Fullstack Developer dedicated to building modern, responsive, and efficient web applications.
+                    I craft seamless user experiences and robust backend systems to bring ideas to life<span className='text-primary'>.</span>
                 </p>
             </div>
             <div className='flex items-center justify-center gap-3 mt-5'>
